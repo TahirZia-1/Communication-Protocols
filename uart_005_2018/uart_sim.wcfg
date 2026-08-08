@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_uart_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_uart" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1481288636760fs"></ZoomEndTime>
+      <Cursor1Time time="428325000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="116"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/tb_uart/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/rst_n" type="logic">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/tx_data" type="array">
+      <obj_property name="ElementShortName">tx_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tx_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/tx_line" type="logic">
+      <obj_property name="ElementShortName">tx_line</obj_property>
+      <obj_property name="ObjectShortName">tx_line</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/tx_busy" type="logic">
+      <obj_property name="ElementShortName">tx_busy</obj_property>
+      <obj_property name="ObjectShortName">tx_busy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/tx_done" type="logic">
+      <obj_property name="ElementShortName">tx_done</obj_property>
+      <obj_property name="ObjectShortName">tx_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/rx_valid" type="logic">
+      <obj_property name="ElementShortName">rx_valid</obj_property>
+      <obj_property name="ObjectShortName">rx_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/framing_error" type="logic">
+      <obj_property name="ElementShortName">framing_error</obj_property>
+      <obj_property name="ObjectShortName">framing_error</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/rx_data" type="array">
+      <obj_property name="ElementShortName">rx_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/tx_tick" type="logic">
+      <obj_property name="ElementShortName">tx_tick</obj_property>
+      <obj_property name="ObjectShortName">tx_tick</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/rx_tick" type="logic">
+      <obj_property name="ElementShortName">rx_tick</obj_property>
+      <obj_property name="ObjectShortName">rx_tick</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/CLOCK_FREQ_HZ" type="array">
+      <obj_property name="ElementShortName">CLOCK_FREQ_HZ[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CLOCK_FREQ_HZ[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart/BAUD_RATE" type="array">
+      <obj_property name="ElementShortName">BAUD_RATE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BAUD_RATE[31:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Transaction Success: ACK received.
+TX Data: a5 | RX Data (Slave): a5
+$finish called at time : 825035 ns : File "/home/pc-8/Desktop/Module_2_second_half_005/i2c/i2c.srcs/sim_1/new/tb.sv" Line 243

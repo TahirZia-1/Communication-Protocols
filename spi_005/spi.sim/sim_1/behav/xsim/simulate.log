@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+PASS: Master RX = 5a, Slave RX = c3
+$finish called at time : 9145 ns : File "/home/pc-8/Desktop/Module_2_second_half_005/spi/spi.srcs/sim_1/new/tb.sv" Line 238

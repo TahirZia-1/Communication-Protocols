@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 21 2025
+22:59:56
+/home/pc-8/Desktop/Module_2_second_half_005/i2c/i2c.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+/home/pc-8/Desktop/Module_2_second_half_005/i2c/i2c.srcs/sim_1/new/tb.sv,1783404366,systemVerilog,,,,tb_i2c,,uvm,../../../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/pc-8/Desktop/Module_2_second_half_005/i2c/i2c.srcs/sources_1/new/i2c.sv,1783403315,systemVerilog,,/home/pc-8/Desktop/Module_2_second_half_005/i2c/i2c.srcs/sim_1/new/tb.sv,,i2c_master;i2c_slave,,uvm,../../../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/pc-8/Desktop/Module_2_second_half_005/i2c/i2c.srcs/sources_1/new/top.sv,1783403428,systemVerilog,,,,i2c_top,,uvm,../../../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef,,,,,

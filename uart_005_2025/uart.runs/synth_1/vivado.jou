@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Wed May 21 22:58:25 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Mon Jul  6 18:19:25 2026
+# Process ID         : 33942
+# Current directory  : /home/pc-8/Desktop/Module_2_second_half_005/uart/uart.runs/synth_1
+# Command line       : vivado -log uart_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source uart_top.tcl
+# Log file           : /home/pc-8/Desktop/Module_2_second_half_005/uart/uart.runs/synth_1/uart_top.vds
+# Journal file       : /home/pc-8/Desktop/Module_2_second_half_005/uart/uart.runs/synth_1/vivado.jou
+# Running On         : pop-os
+# Platform           : Pop
+# Operating System   : Pop!_OS 22.04 LTS
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz
+# CPU Frequency      : 4597.756 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16465 MB
+# Swap memory        : 20760 MB
+# Total Virtual      : 37225 MB
+# Available Virtual  : 31022 MB
+#-----------------------------------------------------------
+source uart_top.tcl -notrace
